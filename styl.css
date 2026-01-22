@@ -1,0 +1,35 @@
+body{
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+.contrainer {
+    width: 60%;
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+h1{
+    color: #2c3e50;
+}
+h2{
+    color: #2980b9;
+}
+.photo{
+width: 150px;
+height: 150px;
+border-radius: 50px;
+margin: 15px 0;
+
+
+}
+.description{
+    margin-top: 15%;
+    font-size: 16%;
+}
+message{
+    margin-top: 20%;
+    font-weight: bold;
+    color: green;
+}
